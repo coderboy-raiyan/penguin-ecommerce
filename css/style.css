@@ -116,6 +116,11 @@ Haeder styles Strats
   height: 1rem;
   font-size: 2rem;
 }
+.navbar-sticky {
+  position: fixed;
+  top: 0;
+  background: #fff9f4;
+}
 
 /*=======================
 Our Home section styles
