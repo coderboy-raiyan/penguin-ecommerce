@@ -1,0 +1,107 @@
+/* Mobile device */
+@media only screen and (max-width: 765px) {
+  /*======================
+Haeder styles Strats
+========================*/
+  .navbar .navbar-nav {
+    background: #fff;
+    text-align: center;
+  }
+  .navbar .navbar-toggler {
+    padding-right: 0.5rem;
+  }
+  .navbar-brand {
+    width: 50%;
+  }
+
+  /*=======================
+Our Home section styles
+======================= */
+  #home {
+    min-height: 70rem;
+  }
+  .hero_inner h1 {
+    font-size: 6rem;
+    width: 100%;
+  }
+  .hero_inner p {
+    font-size: 1.6rem;
+    color: #3e3e3e;
+    width: 100%;
+    margin-bottom: 2.4rem;
+  }
+  .hero_inner {
+    margin-bottom: 2rem;
+  }
+  /*========================= 
+About us section
+===========================*/
+  .benefit_des {
+    width: 100%;
+    text-align: center;
+  }
+  .benefit_des p {
+    width: 100%;
+    line-height: 2.6rem;
+  }
+  .benefit_des h1 {
+    margin: 1rem 0;
+  }
+}
+
+/*===============================
+ Tablet CSS
+================================= */
+
+/* Mobile device */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*======================
+  Haeder styles Strats
+  ========================*/
+  .navbar .navbar-nav {
+    background: #fff;
+    text-align: center;
+  }
+  .navbar .navbar-toggler {
+    padding-right: 0.5rem;
+  }
+  .navbar-brand {
+    width: 40%;
+  }
+
+  /*=======================
+  Our Home section styles
+  ======================= */
+
+  .hero_inner h1 {
+    font-size: 7rem;
+    width: 100%;
+  }
+  .hero_inner p {
+    font-size: 1.6rem;
+    color: #3e3e3e;
+    width: 100%;
+    margin-bottom: 2.4rem;
+  }
+  .hero_inner {
+    margin-bottom: 2rem;
+  }
+  .hero_img img {
+    max-width: 95%;
+  }
+
+  /*========================= 
+About us section
+===========================*/
+  .benefit_des {
+    width: 100%;
+    text-align: center;
+  }
+  .benefit_des p {
+    width: 100%;
+    line-height: 2.6rem;
+  }
+  .benefit_des h1 {
+    margin: 1rem 0;
+  }
+}
